@@ -2,11 +2,10 @@
 
 Welcome to the official **Elegance UI** organization.
 
-Elegance UI is focused on building clean, modern, and reusable UI components and tools.
+Elegance UI is focused on building clean, modern, and reusable UI.
 
 ## What you'll find here
-- UI component libraries
-- Supporting tooling and workflows
+- Native UI framework
 - Documentation and examples
 
 Thanks for visiting and exploring Elegance UI.
