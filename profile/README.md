@@ -1,6 +1,6 @@
 # Elegance UI
 
-Welcome to the official **Elegance UI** organization profile.
+Welcome to the official **Elegance UI** organization.
 
 Elegance UI is focused on building clean, modern, and reusable UI components and tools.
 
